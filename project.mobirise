@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "html.html",
+    "currentPage": "sakshamlogistics.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -161,7 +161,7 @@
         }
       ]
     },
-    "html.html": {
+    "sakshamlogistics.html": {
       "settings": {
         "meta_descr": "A flexible, plug-and-play modern age logistics network. ",
         "title": "Saksham Logistics",
