@@ -711,12 +711,98 @@ section.lazy-placeholder:after {
   opacity: 0.3;
 }
 .cid-qTkA127IK8 {
-  background-image: url("../../../assets/images/background4.jpg");
+  background-image: url("../../../assets/images/logistics-2000x1333.jpg");
+}
+.cid-s1BW7qDGwQ {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #232323;
+}
+.cid-s1BW7qDGwQ .line {
+  background-color: #f46d25;
+  color: #f46d25;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-s1BW7qDGwQ .section-text {
+  padding: 2rem 0;
+  color: #ffffff;
+}
+.cid-s1BW7qDGwQ .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-s1BW7qDGwQ .inner-container {
+    width: 100% !important;
+  }
+}
+.cid-s1BXDtcINM {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #f46d25;
+}
+.cid-s1BXDtcINM .mbr-section-subtitle {
+  color: #ffffff;
+  font-weight: 300;
+}
+.cid-s1BXDtcINM .mbr-content-text {
+  color: #ffffff;
+}
+.cid-s1BXDtcINM .card {
+  word-wrap: break-word;
+  flex-shrink: 0;
+  -webkit-flex-shrink: 0;
+}
+.cid-s1BXDtcINM .cards-container {
+  display: flex;
+  -webkit-flex-direction: row;
+  flex-direction: row;
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+  -webkit-justify-content: center;
+  justify-content: center;
+  word-break: break-word;
+}
+@media (max-width: 767px) {
+  .cid-s1BXDtcINM .card:not(.last-child) {
+    padding-bottom: 1.5rem;
+  }
+}
+.cid-s1BXDtcINM .img-text {
+  color: #ffffff;
+}
+.cid-s1BWC0wLfL {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #232323;
+}
+.cid-s1BWC0wLfL .title {
+  margin-bottom: 2rem;
+}
+.cid-s1BWC0wLfL .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-s1BWC0wLfL a:not([href]):not([tabindex]) {
+  color: #fff;
+  border-radius: 3px;
+}
+.cid-s1BWC0wLfL a.btn-white:not([href]):not([tabindex]) {
+  color: #333;
+}
+.cid-s1BWC0wLfL textarea.form-control {
+  min-height: 188px;
+}
+.cid-s1BWC0wLfL H2 {
+  color: #f46d25;
+}
+.cid-s1BWC0wLfL LABEL {
+  color: #ffffff;
 }
 .cid-qTkAaeaxX5 {
-  padding-top: 60px;
+  padding-top: 75px;
   padding-bottom: 60px;
-  background-color: #2e2e2e;
+  background-color: #f46d25;
 }
 @media (max-width: 767px) {
   .cid-qTkAaeaxX5 .content {
@@ -779,6 +865,12 @@ section.lazy-placeholder:after {
     justify-content: center;
     -webkit-justify-content: center;
   }
+}
+.cid-qTkAaeaxX5 H5 {
+  text-align: center;
+}
+.cid-qTkAaeaxX5 P {
+  text-align: center;
 }
 .cid-qTkzRZLJNu .navbar {
   padding: .5rem 0;
@@ -1229,6 +1321,7 @@ section.lazy-placeholder:after {
 }
 .cid-s1v1jtjdnV .img-text {
   color: #c1c1c1;
+  text-align: center;
 }
 .cid-s1Bh9RVJuW {
   padding-top: 105px;
